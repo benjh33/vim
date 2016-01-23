@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/ben/projects/interview/devops'
+let g:netrw_dirhist_2='/home/ben/projects/interview/devops/levelone'
+let g:netrw_dirhist_3='/home/ben/projects/interview/devops/levelone/www'
+let g:netrw_dirhist_4='/home/ben/.ipython/profile_default'
+let g:netrw_dirhist_5='/home/ben/projects/sev-db/riak'
