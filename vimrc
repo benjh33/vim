@@ -9,7 +9,7 @@ set encoding=utf-8
 " Douglas Black
 " Colors {{{
 syntax enable           " enable syntax processing
-colorscheme badwolf
+colorscheme torte
 " }}}
 " Misc {{{
 set ttyfast                     " faster redraw
