@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/ben/projects/interview/devops'
 let g:netrw_dirhist_2='/home/ben/projects/interview/devops/levelone'
 let g:netrw_dirhist_3='/home/ben/projects/interview/devops/levelone/www'
@@ -7,3 +7,5 @@ let g:netrw_dirhist_4='/home/ben/.ipython/profile_default'
 let g:netrw_dirhist_5='/home/ben/projects/sev-db/riak'
 let g:netrw_dirhist_6='/home/ubuntu/ruby-book/hello_app/app'
 let g:netrw_dirhist_7='/home/ubuntu/ruby-book/hello_app/app/controllers'
+let g:netrw_dirhist_8='/home/ben/projects/ggd3/src/base'
+let g:netrw_dirhist_9='/home/ben/projects/angular/datepicker/datepicker'
