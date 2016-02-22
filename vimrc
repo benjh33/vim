@@ -32,4 +32,7 @@ autocmd Filetype html setlocal ts=2 sts=2 sw=2 expandtab
 autocmd Filetype ruby setlocal ts=2 sts=2 sw=2 expandtab
 autocmd Filetype javascript setlocal ts=2 sts=2 sw=2 expandtab
 autocmd Filetype js setlocal ts=2 sts=2 sw=2 expandtab
+autocmd Filetype es6 setlocal ts=2 sts=2 sw=2 expandtab
 
+" get rid of preview screen for autocomplete
+set completeopt-=preview
