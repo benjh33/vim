@@ -5,7 +5,7 @@ inoremap jk <ESC>
 " I guess this changes the key before shortcuts to <space> instead of \
 let mapleader = "\<Space>"
 set encoding=utf-8
-
+"
 " Douglas Black
 " Colors {{{
 syntax enable           " enable syntax processing

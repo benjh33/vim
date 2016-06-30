@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/ben/projects/flaskbook/flasky/app'
-let g:netrw_dirhist_2='/home/ben/projects/flaskbook/flasky/app/templates'
-let g:netrw_dirhist_3='/home/ben/projects/ggd3/test/client'
-let g:netrw_dirhist_4='/home/ben/projects/ggd3/dist'
-let g:netrw_dirhist_5='/home/ben/projects/ggd3/test/client'
-let g:netrw_dirhist_6='/home/ben/projects/angular'
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/tests/test_main'
+let g:netrw_dirhist_2='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/tests/test_reports'
+let g:netrw_dirhist_3='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/app/reports'
+let g:netrw_dirhist_4='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/tests/test_main'
+let g:netrw_dirhist_5='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/migrations/versions'
+let g:netrw_dirhist_6='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/tests/test_reports'
+let g:netrw_dirhist_7='/home/ben/.virtualenvs/tsbg/lib/python2.7/site-packages/flask_wtf'
