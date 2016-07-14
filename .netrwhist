@@ -1,9 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/tests/test_main'
-let g:netrw_dirhist_2='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/tests/test_reports'
-let g:netrw_dirhist_3='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/app/reports'
-let g:netrw_dirhist_4='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/tests/test_main'
-let g:netrw_dirhist_5='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/migrations/versions'
-let g:netrw_dirhist_6='/home/ben/Dropbox/freelance/CAN/traynor/tsbg_analytics_site-master/tests/test_reports'
-let g:netrw_dirhist_7='/home/ben/.virtualenvs/tsbg/lib/python2.7/site-packages/flask_wtf'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/ben/projects/work_site/portfolio/home'
+let g:netrw_dirhist_2='/home/ben/Dropbox/freelance/CAN/traynor/tsbib/tsbib/tests'
+let g:netrw_dirhist_3='/home/ben/projects/wagtail-markdown/wagtailmarkdown/mdx'
+let g:netrw_dirhist_4='/home/ben/projects/wagtail-markdown/wagtailmarkdown/mdx/linkers'
