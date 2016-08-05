@@ -25,3 +25,30 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree
+[submodule "bundle/tsuquyomi"]
+	path = bundle/tsuquyomi
+	url = https://github.com/Quramy/tsuquyomi.git
+[submodule "bundle/typescript-vim"]
+	path = bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "bundle/vim-js-indent"]
+	path = bundle/vim-js-indent
+	url = https://github.com/jason0x43/vim-js-indent.git
+[submodule "bundle/vimproc.vim"]
+	path = bundle/vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim.git
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "bundle/javascript-libraries-syntax.vim"]
+	path = bundle/javascript-libraries-syntax.vim
+	url = https://github.com/othree/javascript-libraries-syntax.vim.git
+[submodule "bundle/vim-angular"]
+	path = bundle/vim-angular
+	url = git://github.com/burnettk/vim-angular.git
+[submodule "bundle/jasmine.vim"]
+	path = bundle/jasmine.vim
+	url = git://github.com/claco/jasmine.vim
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git://github.com/scrooloose/syntastic.git
