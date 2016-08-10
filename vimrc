@@ -51,3 +51,9 @@ if 'VIRTUAL_ENV' in os.environ:
     execfile(activate_this, dict(__file__=activate_this))
 EOF
 endif
+
+" javascript syntax
+let g:javascript_plugin_jsdoc = 1
+let g:javascript_plugin_ngdoc = 1
+set foldmethod=syntax
+let g:javascript_plugin_flow = 1
